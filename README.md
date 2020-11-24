@@ -6,7 +6,7 @@
 3. If you manage to avoid the ChoreBot until you open the very last door, you win!
 4. See if you can score a winning streak!
 
-[!image]()
+[!image](https://github.com/abemsq/chore-door/blob/master/image.png)
 
 ## Javascript
 ```
